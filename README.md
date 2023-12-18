@@ -1,10 +1,7 @@
 # LongestCompoundWord
-steps to run the program.
+**Steps to run the program.**
 
-1.Open the repo in a code editor
-2.then goto the LongestCompoundWord.java file
-3.mention the file path and name accordingly
-4.run the file
- 
-# LongestCompoundWord
-# LongestCompoundWord
+1. Open the repo in a code editor </br>
+2. Then goto the LongestCompoundWord.java file </br>
+3. Mention the file path and name accordingly </br>
+4. Run the file </br># LongestCompoundWord
